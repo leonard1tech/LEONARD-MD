@@ -1,6 +1,6 @@
 {
   "name":"LEONARD-MD",
-  "description":"Best whatsapp bot💥 developed by leonard tech🇹🇿 ",
+  "description":"Best whatsapp bot💥 developed by LEONARD-MD",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/vmibx0.jpg",
   "repository":"https://github.com/ekitale/maths-project",
@@ -35,11 +35,18 @@
       "description":"Enter yes for your bot to auto react",
       "value":"no",
       "required":false
+         },
+  "CHATBOT":
+    {
+      "description":"Enter yes for your bot to auto reply messages",
+      "value":"no",
+      "required":false
     },
+	  
 "ANTICALL":
     {
       "description":"Enter yes for your bot to auto reject calls",
-      "value":"no",
+      "value":"yes",
       "required":false
     },
 "AUTO_REACT_STATUS":
@@ -78,7 +85,6 @@
 	,
     "HEROKU_API_KEY": {
     "description": "insert your heroku api-key (this is optionnal)",
-     "value":"",
      "required" :false
     },
   "HEROKU_APP_NAME": {
@@ -121,12 +127,12 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 online. 2 typing a message. 3 recording . Or leave the field blank to indicate your real state.",
-    "value":"2",
+    "value":"",
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "no",
+    "value": "yes",
         "required": true
   }
   },
@@ -143,4 +149,4 @@
       "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
     }
   ]
-    }
+}
