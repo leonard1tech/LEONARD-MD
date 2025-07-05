@@ -9,7 +9,7 @@ RUN apt-get update && \
   npm i pm2 -g && \
   rm -rf /var/lib/apt/lists/*
   
-RUN  git clone https://github.com/Zedkazzozoranda091/LEONARD-MD.git /root/Zokou_BOt
+RUN  git clone https://github.com/Leonard1tech/LEONARD-MD.git /root/Zokou_BOt
 WORKDIR /root/Zokou_Bot/
 
 
