@@ -8,7 +8,7 @@
     "whatsapp"
   ],
   "logo": "https://files.catbox.moe/ifkhsp.jpg",
-  "repository": "https://github.com/zedkazzozoranda091/private",
+  "repository": "https://github.com/leonard1tech/private",
   "succes_url": "/",
   "stack": "container",
   "env": {
@@ -80,7 +80,7 @@
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "255655192476"
+      "value": "255757103671"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
