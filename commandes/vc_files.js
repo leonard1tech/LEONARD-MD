@@ -69,7 +69,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`Support Here My Owner By Follow This Channel Please :https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14`) 
+                 await repondre(`Support Here My Owner By Follow This Channel Please :https://whatsapp.com/channel/0029VbAjawl9MF8vQQa0ZT32`) 
 
    
 
@@ -89,7 +89,7 @@ zokou({ nomCom: 'group1',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*Tap Here To Join ʟᴇᴏɴᴀʀᴅ ᴍᴅ Chatroom* https://chat.whatsapp.com/F1IRnMqmLppIdoOeOf2uzw`) 
+                 await repondre(`*Tap Here To Join ʟᴇᴏɴᴀʀᴅ ᴍᴅ Chatroom* https://whatsapp.com/channel/0029VbAjawl9MF8vQQa0ZT32`) 
 
    
 
@@ -219,7 +219,7 @@ zokou({ nomCom: 'problem',
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || Creator = 𖥘 ʟᴇᴏɴᴀʀᴅ ᴛᴇᴄʜ 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VbAjawl9MF8vQQa0ZT32
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
 Wanna talk to me?👉 https://t.me/leonardTech 👈

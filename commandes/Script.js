@@ -37,13 +37,13 @@ const date = moment().format('DD/MM/YYYY');
    *ʟᴇᴏɴᴀʀᴅ ᴍᴅ ɪᴍᴘᴏʀᴛᴀɴᴛ ɪɴғᴏ* 
 ❒───────────────────❒
 *ɢɪᴛʜᴜʙ ʟɪɴᴋ*
-> https://github.com/Zedkazzozoranda091/LEONARD-MD
+> https://github.com/leonard1tech/LEONARD-MD
 
 *ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ*
-> https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14
+> https://whatsapp.com/channel/0029VbAjawl9MF8vQQa0ZT32
 
 *ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏ ᴛᴀᴘ ᴏɴ ᴛʜᴇ ʟɪɴᴋ ʙᴇʟᴏᴡ*
-> https://github.com/Zedkazzozoranda091
+> https://github.com/leonard1tech
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒⁠⁠⁠⁠ *DEV* : *𝐋𝐄𝐎𝐍𝐀𝐑𝐃 𝐓𝐄𝐂𝐇*
