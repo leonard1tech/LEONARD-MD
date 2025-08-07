@@ -63,9 +63,9 @@
 ## 1.FIRST STEP 
 ## Fork Leonard Md Repo
 👇 👇  👇 👇
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=■+■+■+■+■+ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
  
-- <a href="https://github.com/leonard1tech/LEONARD-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://github.com/leonard1tech/LEONARD-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -79,19 +79,19 @@ star✨ my repo if you like this bot🤖
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+𝕋ℍ𝕀𝕊+𝕀𝕊+𝕊𝔼𝕊𝕊𝕀𝕆ℕ+𝕊𝔼𝕋𝔼😎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=■+■+■+■+■+𝕋ℍ𝕀𝕊+𝕀𝕊+𝕊𝔼𝕊𝕊𝕀𝕆ℕ+𝕊𝔼𝕋𝔼😎)](https://git.io/typing-svg)
 
 
 ### QR SITE
 
 
 
-- <a href="https://Leonard-session.onrender.com/wasiqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://Leonard-session.onrender.com/wasiqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=white&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 ### SESSION SITE
 
 
-- <a href="https://leonard-session-091.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://leonard-session-091.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=white&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 
@@ -109,7 +109,7 @@ star✨ my repo if you like this bot🤖
 
 ### 2. If You Have Account On Heroku**👇 👇 👇
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+100%+𝗦𝗔𝗙𝗘+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=■+■+■+■+■+100%+𝗦𝗔𝗙𝗘+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
  
 
 
@@ -139,7 +139,7 @@ CONTACT DEVELOPER ON WHATSAPP
 
   
  
-<a href="https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14" target="_blank">
+<a href="https://whatsapp.com/channel/0029VbAjawl9MF8vQQa0ZT32" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ LEONARD_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
@@ -179,7 +179,7 @@ The WhatsApp Bot LEONARD MD is released under the [MIT License](https://opensour
   </tr>
   <tr>
     <td><a href="https://wa.me/255757103671?"><img src="https://files.catbox.moe/1opvdg.jpg" width="180"</td>
-    <td><a href="https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14"><img src="https://files.catbox.moe/38ofr2.jpg" width="180"</td>
+    <td><a href="https://whatsapp.com/channel/0029VbAjawl9MF8vQQa0ZT32"><img src="https://files.catbox.moe/ww8n7i.jpg" width="180"</td>
   </tr>
 </table>
 
