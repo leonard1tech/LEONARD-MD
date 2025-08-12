@@ -1,11 +1,11 @@
    ###  LEONARD MD WA BOT
    
 
- <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐌𝐃+𝐁𝐎𝐓.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐓𝐄𝐂𝐇;𝐜𝐫𝐞𝐚𝐭𝐞𝐝+𝐛𝐲:+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐌𝐃;𝐌𝐑:+𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘+🥷;𝐧𝐞𝐰+𝐯𝐢𝐫𝐬𝐢𝐨𝐧+💥;2024+-+2025.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=gold&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐌𝐃+𝐁𝐎𝐓.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐓𝐄𝐂𝐇;𝐜𝐫𝐞𝐚𝐭𝐞𝐝+𝐛𝐲:+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐌𝐃;𝐌𝐑:+𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘+🥷;𝐧𝐞𝐰+𝐯𝐢𝐫𝐬𝐢𝐨𝐧+💥;2024+-+2025.&heart;++;Self-taught+Back-Created+By,;Ibrahim+Adams+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://files.catbox.moe/vmibx0.jpg">
  <img alt="LEONARD-MD" height="300" src="https://files.catbox.moe/vmibx0.jpg">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐌𝐃+𝐁𝐎𝐓.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐓𝐄𝐂𝐇;𝐜𝐫𝐞𝐚𝐭𝐞𝐝+𝐛𝐲:+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐌𝐃;𝐌𝐑:+𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘+🥷;𝐧𝐞𝐰+𝐯𝐞𝐫𝐬𝐢𝐨𝐧+💥;2024+-+2025.)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=gold&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐌𝐃+𝐁𝐎𝐓.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐓𝐄𝐂𝐇;𝐜𝐫𝐞𝐚𝐭𝐞𝐝+𝐛𝐲:+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐌𝐃;𝐌𝐑:+𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐘+🥷;𝐧𝐞𝐰+𝐯𝐞𝐫𝐬𝐢𝐨𝐧+💥;2024+-+2025.)](https://git.io/typing-svg)
 
 
 
@@ -65,7 +65,7 @@
 👇 👇  👇 👇
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=green&lines=■+■+■+■+■+ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
  
-- <a href="https://github.com/leonard1tech/LEONARD-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=blue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://github.com/leonard1tech/LEONARD-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=orange&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -86,12 +86,12 @@ star✨ my repo if you like this bot🤖
 
 
 
-- <a href="https://Leonard-session.onrender.com/wasiqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://Leonard-session.onrender.com/wasiqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 ### SESSION SITE
 
 
-- <a href="https://leonard-session-091.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=red&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+- <a href="https://leonard-session-091.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
 
 
@@ -159,12 +159,12 @@ The WhatsApp Bot LEONARD MD is released under the [MIT License](https://opensour
 
 ## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
 
-- [**LEONARD TECH**](http://github.com/zedkazzozoranda091)
+- [**LEONARD TECH**](http://github.com/leonard1tech)
 
 ★im born to win😎. ©
      
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=keep+using+LEONARD+MD😊" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=gray&width=435&lines=keep+using+LEONARD+MD😊" alt="Typing SVG" /></a>
 
 
 
