@@ -56,7 +56,7 @@ async (conn, mek, m, { from, reply, args }) => {
 ┣━━━━━━━━━━━━━━━━━━━━━━━
 ┃ ✂️ Shortened: ${shortenedUrl}
 ┗━━━━━━━━━━━━━━━━━━━━━━━
-🔗 Powered by NOVA-XMD`;
+🔗 Powered by LEONARD-MD`;
 
         // Send message with box, newsletter context, and quoted contact
         await conn.sendMessage(from, {
