@@ -8,7 +8,7 @@ const { cmd } = require("../command");
 cmd({
   pattern: "tourl",
   alias: ["imgtourl", "imgurl", "url", "geturl", "upload"],
-  react: '⛓️',
+  react: '🖇',
   desc: "Convert media to Catbox URL",
   category: "utility",
   use: ".tourl [reply to media]",
@@ -60,14 +60,14 @@ cmd({
         "```[ FILE UPLOAD SUCCESS ]```\n" +
         "```========================```" + "\n" +
         `📁 TYPE   : ${mediaType}\n` +
-        `🥉 SIZE   : ${formatBytes(mediaBuffer.length)}\n` +
+        `📦 SIZE   : ${formatBytes(mediaBuffer.length)}\n` +
         `🌐 LINK   :\n${mediaUrl}\n` +
         "```========================```\n" +
-        `> Uploaded by: ιєσɳαɾd тєƈн 🥷`,
+        `> Uploaded by: NOVA XMD SYSTEM`,
       contextInfo: {
         forwardedNewsletterMessageInfo: {
           newsletterJid: "120363382023564830@newsletter",
-          newsletterName: "LEONARD MD 💥"
+          newsletterName: "𝘕𝘖𝘝𝘈 𝘟𝘔𝘋 🔥"
         }
       }
     }, { quoted: message });

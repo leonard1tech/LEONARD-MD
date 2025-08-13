@@ -10,8 +10,8 @@ const quotedContact = {
   },
   message: {
     contactMessage: {
-      displayName: "LEONARD VERIFIED 💥",
-      vcard: "BEGIN:VCARD\nVERSION:3.0\nFN:LEONARD VERIFIED 💥\nORG:LEONARD TECH BOT;\nTEL;type=CELL;type=VOICE;waid=255767862487:+255767862457\nEND:VCARD"
+      displayName: "B.M.B VERIFIED ✅",
+      vcard: "BEGIN:VCARD\nVERSION:3.0\nFN:B.M.B VERIFIED ✅\nORG:BMB-TECH BOT;\nTEL;type=CELL;type=VOICE;waid=255767862487:+255767862457\nEND:VCARD"
     }
   }
 };
@@ -23,7 +23,7 @@ const newsletterContext = {
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
       newsletterJid: "120363382023564830@newsletter",
-      newsletterName: "LEONARD-MD",
+      newsletterName: "𝙱.𝙼.𝙱-𝚇𝙼𝙳",
       serverMessageId: 1
     }
   }
@@ -48,7 +48,7 @@ cmd({
       const caption = `┏━━━━━━━━━━━━━━━━━━━━━━━┓
 ┃ 🌌 *Random Wallpaper: ${query}*
 ┣━━━━━━━━━━━━━━━━━━━━━━━
-┃ > *© Powered by ιєσɳαɾd тєƈн*
+┃ > *© Powered by 𝙽𝙾𝚅𝙰-𝚇𝙼𝙳*
 ┗━━━━━━━━━━━━━━━━━━━━━━━`;
 
       await conn.sendMessage(from, {
