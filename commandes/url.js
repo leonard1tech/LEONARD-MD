@@ -1,1 +1,107 @@
-const _0x2e01ba=_0x5ec0;(function(_0x5af4d6,_0x5d7fb3){const _0x40fbca=_0x5ec0,_0x480190=_0x5af4d6();while(!![]){try{const _0x5947c3=parseInt(_0x40fbca(0x201))/0x1*(-parseInt(_0x40fbca(0x213))/0x2)+parseInt(_0x40fbca(0x207))/0x3+-parseInt(_0x40fbca(0x211))/0x4*(parseInt(_0x40fbca(0x218))/0x5)+-parseInt(_0x40fbca(0x1f8))/0x6*(parseInt(_0x40fbca(0x212))/0x7)+parseInt(_0x40fbca(0x1f7))/0x8*(-parseInt(_0x40fbca(0x1ea))/0x9)+parseInt(_0x40fbca(0x214))/0xa*(parseInt(_0x40fbca(0x1fa))/0xb)+-parseInt(_0x40fbca(0x217))/0xc*(-parseInt(_0x40fbca(0x1eb))/0xd);if(_0x5947c3===_0x5d7fb3)break;else _0x480190['push'](_0x480190['shift']());}catch(_0x17e77f){_0x480190['push'](_0x480190['shift']());}}}(_0x402d,0x9fbca));function _0x5ec0(_0x3e8bf2,_0x448f94){const _0x38779a=_0x402d();return _0x5ec0=function(_0x4f6f97,_0x4691d4){_0x4f6f97=_0x4f6f97-0x1ea;let _0x593add=_0x38779a[_0x4f6f97];return _0x593add;},_0x5ec0(_0x3e8bf2,_0x448f94);}function hi(){const _0x1dcf5d=_0x5ec0,_0x49efc0=(function(){let _0x402121=!![];return function(_0x54218a,_0x1f6b9e){const _0x3e68cc=_0x402121?function(){if(_0x1f6b9e){const _0x576520=_0x1f6b9e['apply'](_0x54218a,arguments);return _0x1f6b9e=null,_0x576520;}}:function(){};return _0x402121=![],_0x3e68cc;};}()),_0x1eea66=_0x49efc0(this,function(){const _0xb24421=_0x5ec0;return _0x1eea66['toString']()[_0xb24421(0x1f3)]('(((.+)+)+)+$')[_0xb24421(0x1ef)]()[_0xb24421(0x208)](_0x1eea66)['search'](_0xb24421(0x20e));});_0x1eea66();const _0x267d85=(function(){let _0x3fcc2c=!![];return function(_0x2aa0db,_0x4e7cdf){const _0x4e36ea=_0x3fcc2c?function(){const _0x128967=_0x5ec0;if(_0x4e7cdf){const _0x99f4dd=_0x4e7cdf[_0x128967(0x1ff)](_0x2aa0db,arguments);return _0x4e7cdf=null,_0x99f4dd;}}:function(){};return _0x3fcc2c=![],_0x4e36ea;};}()),_0x1efb8c=_0x267d85(this,function(){const _0x1a15b3=_0x5ec0,_0x4bb437=function(){const _0x37fcf8=_0x5ec0;let _0x1a6967;try{_0x1a6967=Function(_0x37fcf8(0x205)+'{}.constructor(\x22return\x20this\x22)(\x20)'+');')();}catch(_0x5a422e){_0x1a6967=window;}return _0x1a6967;},_0x15f2f2=_0x4bb437(),_0x14b116=_0x15f2f2[_0x1a15b3(0x203)]=_0x15f2f2[_0x1a15b3(0x203)]||{},_0x45aa62=['log',_0x1a15b3(0x209),_0x1a15b3(0x21c),_0x1a15b3(0x1f6),_0x1a15b3(0x220),_0x1a15b3(0x20a),_0x1a15b3(0x1fd)];for(let _0x5f2a79=0x0;_0x5f2a79<_0x45aa62[_0x1a15b3(0x206)];_0x5f2a79++){const _0x4314f0=_0x267d85['constructor']['prototype'][_0x1a15b3(0x20b)](_0x267d85),_0x2aa795=_0x45aa62[_0x5f2a79],_0x3c8f3e=_0x14b116[_0x2aa795]||_0x4314f0;_0x4314f0['__proto__']=_0x267d85['bind'](_0x267d85),_0x4314f0['toString']=_0x3c8f3e[_0x1a15b3(0x1ef)][_0x1a15b3(0x20b)](_0x3c8f3e),_0x14b116[_0x2aa795]=_0x4314f0;}});_0x1efb8c(),console[_0x1dcf5d(0x20c)](_0x1dcf5d(0x210));}hi();const {Sticker,createSticker,StickerTypes}=require(_0x2e01ba(0x202)),{zokou}=require(_0x2e01ba(0x1ed)),{downloadMediaMessage}=require(_0x2e01ba(0x1f0)),fs=require(_0x2e01ba(0x215)),ffmpeg=require(_0x2e01ba(0x21b)),{Catbox}=require(_0x2e01ba(0x1f2)),catbox=new Catbox();function _0x402d(){const _0x4777ab=['downloadAndSaveMediaMessage','imageMessage','exception','video','url','27khwjMk','15929979caGxbI','👨🏿‍💻','../framework/zokou','audio','toString','@whiskeysockets/baileys','Please\x20reply\x20to\x20an\x20image,\x20video,\x20or\x20audio\x20file.','node-catbox','search','videoMessage','General','error','924952GAVQcQ','6nrGIyD','end','2959Bjmsft','The\x20video\x20is\x20too\x20long.\x20Please\x20send\x20a\x20smaller\x20video.','existsSync','trace','audioMessage','apply','image','1dfuTuL','wa-sticker-formatter','console','toFormat','return\x20(function()\x20','length','3648264ptENRk','constructor','warn','table','bind','log','© ιєσɳαɾd тєƈн\x20url:\x20','(((.+)+)+)+$','mp3','Hello\x20World!','2997860MqqvJB','3698527mvyXwn','1923410OWcODZ','29710fliHbY','fs-extra','Error\x20retrieving\x20the\x20file\x20link','12qQzyUR','5ldEiWh','An\x20unknown\x20error\x20occurred.','fileLength','fluent-ffmpeg','info','unlinkSync'];_0x402d=function(){return _0x4777ab;};return _0x402d();}async function uploadToCatbox(_0x279674){const _0x3b4c32=_0x2e01ba;if(!fs[_0x3b4c32(0x1fc)](_0x279674))throw new Error('File\x20does\x20not\x20exist');try{const _0x280dce=await catbox['uploadFile']({'path':_0x279674});if(_0x280dce)return _0x280dce;else throw new Error(_0x3b4c32(0x216));}catch(_0x2c07e7){throw new Error(String(_0x2c07e7));}}async function convertToMp3(_0x2e5d89,_0xe8bc44){return new Promise((_0x1e4b31,_0x415c73)=>{const _0x223d3d=_0x5ec0;ffmpeg(_0x2e5d89)[_0x223d3d(0x204)](_0x223d3d(0x20f))['on']('error',_0x5bf718=>_0x415c73(_0x5bf718))['on'](_0x223d3d(0x1f9),()=>_0x1e4b31(_0xe8bc44))['save'](_0xe8bc44);});}zokou({'nomCom':_0x2e01ba(0x222),'categorie':_0x2e01ba(0x1f5),'reaction':_0x2e01ba(0x1ec)},async(_0x3b5204,_0x37a971,_0x4523a0)=>{const _0xf2676a=_0x2e01ba,{msgRepondu:_0x34fb6a,repondre:_0x1052dc}=_0x4523a0;if(!_0x34fb6a){_0x1052dc(_0xf2676a(0x1f1));return;}let _0x52e0ab,_0x7cb52;if(_0x34fb6a[_0xf2676a(0x1f4)]){const _0x43197a=_0x34fb6a[_0xf2676a(0x1f4)][_0xf2676a(0x21a)];if(_0x43197a>0x32*0x400*0x400){_0x1052dc(_0xf2676a(0x1fb));return;}_0x52e0ab=await _0x37a971[_0xf2676a(0x21e)](_0x34fb6a['videoMessage']),_0x7cb52=_0xf2676a(0x221);}else{if(_0x34fb6a[_0xf2676a(0x21f)])_0x52e0ab=await _0x37a971[_0xf2676a(0x21e)](_0x34fb6a['imageMessage']),_0x7cb52='image';else{if(_0x34fb6a[_0xf2676a(0x1fe)]){_0x52e0ab=await _0x37a971[_0xf2676a(0x21e)](_0x34fb6a[_0xf2676a(0x1fe)]),_0x7cb52=_0xf2676a(0x1ee);const _0x22cd42=_0x52e0ab+'.mp3';try{await convertToMp3(_0x52e0ab,_0x22cd42),fs[_0xf2676a(0x21d)](_0x52e0ab),_0x52e0ab=_0x22cd42;}catch(_0x16c32f){console['error']('Error\x20converting\x20audio\x20to\x20MP3:',_0x16c32f),_0x1052dc('Failed\x20to\x20process\x20the\x20audio\x20file.');return;}}else{_0x1052dc('Unsupported\x20media\x20type.\x20Reply\x20with\x20an\x20image,\x20video,\x20or\x20audio\x20file.');return;}}}try{const _0x268d9f=await uploadToCatbox(_0x52e0ab);fs[_0xf2676a(0x21d)](_0x52e0ab);switch(_0x7cb52){case _0xf2676a(0x200):_0x1052dc(_0xf2676a(0x20d)+_0x268d9f);break;case _0xf2676a(0x221):_0x1052dc(_0xf2676a(0x20d)+_0x268d9f);break;case _0xf2676a(0x1ee):_0x1052dc(_0xf2676a(0x20d)+_0x268d9f);break;default:_0x1052dc(_0xf2676a(0x219));break;}}catch(_0x1812ff){console[_0xf2676a(0x1f6)]('Error\x20while\x20creating\x20your\x20URL:',_0x1812ff),_0x1052dc('Oops,\x20an\x20error\x20occurred.');}});
+const { Sticker, createSticker, StickerTypes } = require('wa-sticker-formatter');
+const {zokou} = require("../framework/zokou");
+const { downloadMediaMessage } = require('@whiskeysockets/baileys');
+const fs = require("fs-extra");
+const ffmpeg = require("fluent-ffmpeg");
+const { Catbox } = require('node-catbox');
+
+const catbox = new Catbox();
+
+async function uploadToCatbox(Path) {
+    if (!fs.existsSync(Path)) {
+        throw new Error("File does not exist");
+    }
+
+    try {
+        const response = await catbox.uploadFile({
+            path: Path // Provide the path to the file
+        });
+
+        if (response) {
+            return response; // returns the uploaded file URL
+        } else {
+            throw new Error("Error retrieving the file link");
+        }
+    } catch (err) {
+        throw new Error(String(err));
+    }
+}
+
+async function convertToMp3(inputPath, outputPath) {
+    return new Promise((resolve, reject) => {
+        ffmpeg(inputPath)
+            .toFormat("mp3")
+            .on("error", (err) => reject(err))
+            .on("end", () => resolve(outputPath))
+            .save(outputPath);
+    });
+}
+
+zokou({ nomCom: "url2", categorie: "General", reaction: "🖇️" }, async (origineMessage, zk, commandeOptions) => {
+    const { msgRepondu, repondre } = commandeOptions;
+
+    if (!msgRepondu) {
+        repondre('Please reply to an image, video, or audio file.');
+        return;
+    }
+
+    let mediaPath, mediaType;
+
+    if (msgRepondu.videoMessage) {
+        const videoSize = msgRepondu.videoMessage.fileLength;
+
+        if (videoSize > 50 * 1024 * 1024) {
+            repondre('The video is too long. Please send a smaller video.');
+            return;
+        }
+
+        mediaPath = await zk.downloadAndSaveMediaMessage(msgRepondu.videoMessage);
+        mediaType = 'video';
+    } else if (msgRepondu.imageMessage) {
+        mediaPath = await zk.downloadAndSaveMediaMessage(msgRepondu.imageMessage);
+        mediaType = 'image';
+    } else if (msgRepondu.audioMessage) {
+        mediaPath = await zk.downloadAndSaveMediaMessage(msgRepondu.audioMessage);
+        mediaType = 'audio';
+
+        const outputPath = `${mediaPath}.mp3`;
+
+        try {
+            // Convert audio to MP3 format
+            await convertToMp3(mediaPath, outputPath);
+            fs.unlinkSync(mediaPath); // Remove the original audio file
+            mediaPath = outputPath; // Update the path to the converted MP3 file
+        } catch (error) {
+            console.error("Error converting audio to MP3:", error);
+            repondre('Failed to process the audio file.');
+            return;
+        }
+    } else {
+        repondre('Unsupported media type. Reply with an image, video, or audio file.');
+        return;
+    }
+
+    try {
+        const catboxUrl = await uploadToCatbox(mediaPath);
+        fs.unlinkSync(mediaPath); // Remove the local file after uploading
+
+        // Respond with the URL based on media type
+        switch (mediaType) {
+            case 'image':
+                repondre(`© uploaded by 𝙻𝚎𝚘𝚗𝚊𝚛𝚍𝚃𝚎𝚌𝚑: ${catboxUrl}`);
+                break;
+            case 'video':
+                repondre(`© uploaded by 𝙻𝚎𝚘𝚗𝚊𝚛𝚍𝚃𝚎𝚌𝚑: ${catboxUrl}`);
+                break;
+            case 'audio':
+                repondre(`© uploaded by 𝙻𝚎𝚘𝚗𝚊𝚛𝚍𝚃𝚎𝚌𝚑: ${catboxUrl}`);
+                break;
+            default:
+                repondre('An unknown error occurred.');
+                break;
+        }
+    } catch (error) {
+        console.error('Error while creating your URL:', error);
+        repondre('Oops, an error occurred.');
+    }
+})
