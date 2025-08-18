@@ -19,9 +19,6 @@
 <a href="https://github.com/Leonard1tech/leonard-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/leonard1tech/leonard-md?style=social"></a>
 <a href="https://github.com/leonard1tech/leonard-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/leonard1tech/leonard-md?label=Watching&style=social"></a>
 
-</p>
-<p align="center"><img src="https://profile-counter.glitch.me/{leonard1tech}/count.svg" alt="leonard-md :: Visitor's Count"/></p>
-
 ---
 
 <p align="center">
