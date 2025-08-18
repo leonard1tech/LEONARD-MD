@@ -24,14 +24,6 @@
 
 ---
 
-
-</a>
-  <div align="center">
-  <img src="https://spogit.vercel.app/api?theme=dark&black=true&scan=true" alt="Widget with the current Spotify song"  />
-</div>
-
----
-
 <p align="center">
   <a href="https://github.com/leonard1tech/Leonard-md"><b>Leonard-md</b></a> Support Deploy On...
 </p>
