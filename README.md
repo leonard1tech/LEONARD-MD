@@ -139,21 +139,17 @@ CONTACT DEVELOPER ON WHATSAPP
 
 The WhatsApp Bot LEONARD MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•Role+number-one; don't-trust+any one+🖐️😊;DEVELOPED+BY+LEONARD+TECH;RELEASED+DATE+01%2F10%2F2024." alt="Typing SVG" /></a>
+
 
 
 🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 LEONARD🍀_MD 🌟
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+LEONARD- MD+MADE+IN+TANZANIA+🇹🇿♥️" alt="Typing SVG" /></a>
 
 ## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
 
 - [**LEONARD TECH**](http://github.com/leonard1tech)
 
 ★im born to win😎. ©
-     
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=gray&width=435&lines=keep+using+LEONARD+MD😊" alt="Typing SVG" /></a>
 
 
 
