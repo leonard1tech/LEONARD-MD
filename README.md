@@ -52,7 +52,7 @@
 
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 
 <h1 align="center"> 𝐊𝐢𝐧𝐠𝐝𝐨𝐦 </h1>
 
@@ -69,6 +69,4 @@
 </table>
 
 </p>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
