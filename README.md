@@ -30,9 +30,11 @@
 
 <p align="center">
     <strong>3. DEPLOY TO HEROKU</strong>
-    
-   <br>
-    - <a href='https://dashboard.heroku.com/new?template=https://github.com/leonard1tech/LEONARD-MD/tree/main' target="_darkblue"><img alt='DEPLOY TO HEROKU' src="https://img.shields.io/badge/Deploy%20To%20Heroku-darkblue?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
+    <br>
+    <a href="https://dashboard.heroku.com/new?template=https://github.com/leonard1tech/LEONARD-MD#main" target="_blank">
+        <img alt="Deploy to heroku" src="https://img.shields.io/badge/Deploy-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=purple&color=purple"/>
+    </a>
+</p>
 
 <p align="center">
     <strong>4. DOWNLOAD BOT ZIP</strong>
