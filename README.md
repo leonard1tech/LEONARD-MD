@@ -45,6 +45,15 @@
 </p>
 
 
+
+
+
+
+
+
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 <h1 align="center"> 𝐊𝐈𝐍𝐆𝐃𝐎𝐌 </h1>
 
 
