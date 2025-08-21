@@ -43,3 +43,23 @@
         <img alt="Download zip" src="https://img.shields.io/badge/Download-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange"/>
     </a>
 </p>
+
+
+<h1 align="center"> 𝐊𝐈𝐍𝐆𝐃𝐎𝐌 </h1>
+
+
+<table>
+  <tr>
+    <td>𝑲𝒊𝒏𝒈 𝑳𝒆𝒐𝒏𝒂𝒓𝒅👑</td></td>
+    <td>𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍</td>
+  </tr>
+  <tr>
+    <td><a href="https://wa.me/255757103671?"><img src="https://files.catbox.moe/456otp.jpg" width="180"</td>
+    <td><a href="https://whatsapp.com/channel/0029VbAjawl9MF8vQQa0ZT32"><img src="https://files.catbox.moe/ww8n7i.jpg" width="180"</td>
+  </tr>
+</table>
+
+</p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
