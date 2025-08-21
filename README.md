@@ -9,7 +9,7 @@
 </a>
 </p>
 <p align="center">
-<a href="https://github.com/leonard1tech"><img title="Author" src="https://img.shields.io/badge/LEONARD-MD-darkgreen?style=for-the-badge&logo=Whatsapp"></a>
+<a href="https://github.com/leonard1tech"><img title="Author" src="https://img.shields.io/badge/LEONARD-MD-darkgreen?style=for-the-badge&logo=Github"></a>
 <p/>
 
 <p align="center">
