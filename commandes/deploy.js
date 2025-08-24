@@ -41,7 +41,7 @@ Hello ${nomAuteurMessage},,
 ✔First type the sc ,repo or script command and you will get leonard md repository 
 ✔From there you are required to get your *Session id* but how,??..
          *ʜᴏᴡ ᴛᴏ ɢᴇᴛ sᴇssɪᴏɴ ɪᴅ*
-✞ Open this link 👉 https://Leonard-session.onrender.com/ then tap on pair code.
+✞ Open this link 👉 https://leonard-session-091.onrender.com then tap on pair code.
 ✞ Enter your whatsapp number with the country code e.g;  255757103671 then tap submit 
 ✞Leonard Md owner , *leonard* ,will send you the code immediately.Copy the code and whatsapp will bring a notification 
 ✞Tap on the notification and paste the code that Leonard md owner sent you.

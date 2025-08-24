@@ -37,7 +37,7 @@ const date = moment().format('DD/MM/YYYY');
    *ʟᴇᴏɴᴀʀᴅ ᴍᴅ ɪᴍᴘᴏʀᴛᴀɴᴛ ɪɴғᴏ* 
 ❒───────────────────❒
 *ɢɪᴛʜᴜʙ ʟɪɴᴋ*
-> https://github.com/leonard1tech/LEONARD-MD
+> https://hoo.be/leonardtech
 
 *ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ*
 > https://whatsapp.com/channel/0029VbAjawl9MF8vQQa0ZT32

@@ -36,7 +36,7 @@ zokou({
       // Update group settings before removing members
       await zk.groupToggleEphemeral(dest, 86400);
       await zk.groupSettingUpdate(dest, "announcement");
-      await zk.groupUpdateSubject(dest, "ᴄʀᴀsʜ ʙʏ *ʟᴇᴏɴᴀʀᴅ ᴍᴅ 💥* ᴋɪᴄᴋᴇᴅ ᴇᴠᴇʀʏᴏɴᴇ ɪɴ ᴛʜʜɪs ɢʀᴏᴜᴘ");
+      await zk.groupUpdateSubject(dest, "ᴄʀᴀsʜ ʙʏ ʟᴇᴏɴᴀʀᴅ ᴍᴅ 💥 ᴋɪᴄᴋᴇᴅ ᴇᴠᴇʀʏᴏɴᴇ ɪɴ ᴛʜʜɪs ɢʀᴏᴜᴘ");
       await zk.groupUpdateDescription(dest, "Crashed by LeonardTech");
       await zk.groupRevokeInvite(dest);
 
