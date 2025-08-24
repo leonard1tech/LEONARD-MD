@@ -37,10 +37,10 @@ const date = moment().format('DD/MM/YYYY');
    *ʟᴇᴏɴᴀʀᴅ ᴍᴅ ɪᴍᴘᴏʀᴛᴀɴᴛ ɪɴғᴏ* 
 ❒───────────────────❒
 *ɢɪᴛʜᴜʙ ʟɪɴᴋ*
-> https://hoo.be/leonardtech
+> hoo.be/leonardtech
 
 *ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ*
-> https://whatsapp.com/channel/0029VbAjawl9MF8vQQa0ZT32
+> hoo.be/leonardtech
 
 *ғᴏʀ ᴍᴏʀᴇ ɪɴғᴏ ᴛᴀᴘ ᴏɴ ᴛʜᴇ ʟɪɴᴋ ʙᴇʟᴏᴡ*
 > https://github.com/leonard1tech
