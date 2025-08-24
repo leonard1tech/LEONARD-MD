@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "💥", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://hoo.be/leonardtech';
+  const githubRepo = 'https://api.github.com/repos/leonard1tech/LEONARD-MD';
   const img = 'https://files.catbox.moe/idioc5.jpg';
 
   try {
@@ -22,7 +22,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "💥", nomFichier: __
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow whatsaap user
-this is* *leonard_md.*\n support our channel *by*, hoo.be/leonardtech
+this is* *leonard_md.*\n support our channel *by*, https://hoo.be/leonardtech
 
 _________● *ʟᴇᴏɴᴀʀᴅ* ●____________
 |💥 *ʀᴇᴘᴏsɪᴛᴏʀʏ:* ${data.html_url}
