@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/leonard1tech/LEONARD-MD">
-    <img alt="LEONARD-MD docs" height="350" src="https://files.catbox.moe/idioc5.jpg">
+    <img alt="LEONARD-MD docs" height="350" src="https://files.catbox.moe/rh5n5g.jpg">
   </a>
 </p>
     
