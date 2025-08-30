@@ -1,5 +1,5 @@
-const config = require('../framework/zokou');
-const { zokou } = require('../framework/zokou');
+const config = require("../framework/zokou");
+const { zokou } = require("../framework/zokou");
 const { ytsearch } = require('@dark-yasiya/yt-dl.js');
 
 // MP4 video download
