@@ -1,9 +1,9 @@
 const config = require("../framework/zokou");
-const { zokou } = require("../framework/zokou');
+const { zokou } = require("../framework/zokou");
 const { ytsearch } = require("@dark-yasiya/yt-dl.js");
+const fetch = require("node-fetch"); // ✅ Added for API calls
 
 // MP4 video download
-
 zokou({ 
     pattern: "mp4", 
     alias: ["video"], 
@@ -12,12 +12,12 @@ zokou({
     category: "main", 
     use: '.mp4 < Yt url or Name >', 
     filename: __filename 
-}, async (conn, mek, m, { from, prefix, quoted, q, reply }) => { 
+}, async (conn, mek, m, { from, q, reply }) => { 
     try { 
         if (!q) return await reply("Please provide a YouTube URL or video name.");
         
         const yt = await ytsearch(q);
-        if (yt.results.length < 1) return reply("No results found!");
+        if (!yt.results.length) return reply("No results found!");
         
         let yts = yt.results[0];  
         let apiUrl = `https://apis.davidcyriltech.my.id/download/ytmp4?url=${encodeURIComponent(yts.url)}`;
@@ -25,7 +25,7 @@ zokou({
         let response = await fetch(apiUrl);
         let data = await response.json();
         
-        if (data.status !== 200 || !data.success || !data.result.download_url) {
+        if (!data?.result?.download_url) {
             return reply("Failed to fetch the video. Please try again later.");
         }
 
@@ -49,13 +49,12 @@ zokou({
         );
 
     } catch (e) {
-        console.log(e);
+        console.error(e);
         reply("An error occurred. Please try again later.");
     }
 });
 
 // MP3 song download 
-
 zokou({ 
     pattern: "song", 
     alias: ["play", "mp3"], 
@@ -64,7 +63,7 @@ zokou({
     category: "main", 
     use: '.song <query>', 
     filename: __filename 
-}, async (conn, mek, m, { from, sender, reply, q }) => { 
+}, async (conn, mek, m, { from, reply, q }) => { 
     try {
         if (!q) return reply("Please provide a song name or YouTube link.");
 
@@ -79,27 +78,29 @@ zokou({
 
         if (!data?.result?.downloadUrl) return reply("Download failed. Try again later.");
 
-    await conn.sendMessage(from, {
-    audio: { url: data.result.downloadUrl },
-    mimetype: "audio/mpeg",
-    fileName: `${song.title}.mp3`,
-    contextInfo: {
-        externalAdReply: {
-            title: song.title.length > 25 ? `${song.title.substring(0, 22)}...` : song.title,
-            body: "Join our WhatsApp Channel",
-            mediaType: 1,
-            thumbnailUrl: song.thumbnail.replace('default.jpg', 'hqdefault.jpg'),
-            sourceUrl: 'https://whatsapp.com/channel/0029VbBAqgd4inooNwRQ4K0J',
-            mediaUrl: 'https://whatsapp.com/channel/0029VbBAqgd4inooNwRQ4K0J',
-            showAdAttribution: true,
-            renderLargerThumbnail: true
-        }
-    }
-}, { quoted: mek });
+        await conn.sendMessage(from, {
+            audio: { 
+                url: data.result.downloadUrl,
+                fileName: `${song.title}.mp3` // ✅ safer inside audio
+            },
+            mimetype: "audio/mpeg",
+            ptt: false,
+            contextInfo: {
+                externalAdReply: {
+                    title: song.title.length > 25 ? `${song.title.substring(0, 22)}...` : song.title,
+                    body: "Join our WhatsApp Channel",
+                    mediaType: 1,
+                    thumbnailUrl: song.thumbnail.replace('default.jpg', 'hqdefault.jpg'),
+                    sourceUrl: 'https://whatsapp.com/channel/0029VbBAqgd4inooNwRQ4K0J',
+                    mediaUrl: 'https://whatsapp.com/channel/0029VbBAqgd4inooNwRQ4K0J',
+                    showAdAttribution: true,
+                    renderLargerThumbnail: true
+                }
+            }
+        }, { quoted: mek });
 
     } catch (error) {
         console.error(error);
         reply("An error occurred. Please try again.");
     }
 });
-              
