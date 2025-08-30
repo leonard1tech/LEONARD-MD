@@ -1,10 +1,10 @@
-const config = require('../config');
-const { cmd } = require('../command');
+const config = require('../framework/zokou');
+const { zokou } = require('../framework/zokou');
 const { ytsearch } = require('@dark-yasiya/yt-dl.js');
 
 // MP4 video download
 
-cmd({ 
+zokou({ 
     pattern: "mp4", 
     alias: ["video"], 
     react: "🎥", 
@@ -35,7 +35,7 @@ cmd({
 👀 *Views:* ${yts.views}
 👤 *Author:* ${yts.author.name}
 🔗 *Link:* ${yts.url}
-> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ RAHEEM-CM* ❤️`;
+> *ᴘᴏᴡᴇʀᴇᴅ ʙʏ LEONARD-MD* 💥`;
 
         // Send video directly with caption
         await conn.sendMessage(
@@ -56,10 +56,10 @@ cmd({
 
 // MP3 song download 
 
-cmd({ 
+zokou({ 
     pattern: "song", 
     alias: ["play", "mp3"], 
-    react: "🎶", 
+    react: "🎧", 
     desc: "Download YouTube song", 
     category: "main", 
     use: '.song <query>', 
@@ -89,8 +89,8 @@ cmd({
             body: "Join our WhatsApp Channel",
             mediaType: 1,
             thumbnailUrl: song.thumbnail.replace('default.jpg', 'hqdefault.jpg'),
-            sourceUrl: 'https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r',
-            mediaUrl: 'https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r',
+            sourceUrl: 'https://whatsapp.com/channel/0029VbBAqgd4inooNwRQ4K0J',
+            mediaUrl: 'https://whatsapp.com/channel/0029VbBAqgd4inooNwRQ4K0J',
             showAdAttribution: true,
             renderLargerThumbnail: true
         }
