@@ -37,7 +37,7 @@ async function convertToMp3(inputPath, outputPath) {
     });
 }
 
-zokou({ nomCom: "url2", categorie: "General", reaction: "🖇️" }, async (origineMessage, zk, commandeOptions) => {
+zokou({ nomCom: "url", categorie: "General", reaction: "🖇️" }, async (origineMessage, zk, commandeOptions) => {
     const { msgRepondu, repondre } = commandeOptions;
 
     if (!msgRepondu) {
@@ -88,13 +88,13 @@ zokou({ nomCom: "url2", categorie: "General", reaction: "🖇️" }, async (orig
         // Respond with the URL based on media type
         switch (mediaType) {
             case 'image':
-                repondre(`© uploaded by 𝙻𝚎𝚘𝚗𝚊𝚛𝚍𝚃𝚎𝚌𝚑: ${catboxUrl}`);
+                repondre(`> © 𝕃𝕖𝕠𝕟𝕒𝕣𝕕: ${catboxUrl}`);
                 break;
             case 'video':
-                repondre(`© uploaded by 𝙻𝚎𝚘𝚗𝚊𝚛𝚍𝚃𝚎𝚌𝚑: ${catboxUrl}`);
+                repondre(`> © 𝕃𝕖𝕠𝕟𝕒𝕣𝕕: ${catboxUrl}`);
                 break;
             case 'audio':
-                repondre(`© uploaded by 𝙻𝚎𝚘𝚗𝚊𝚛𝚍𝚃𝚎𝚌𝚑: ${catboxUrl}`);
+                repondre(`> © 𝕃𝕖𝕠𝕟𝕒𝕣𝕕: ${catboxUrl}`);
                 break;
             default:
                 repondre('An unknown error occurred.');
