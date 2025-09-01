@@ -69,7 +69,7 @@ zokou({ nomCom: 'channel',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`Support Here My Owner By Follow This Channel Please :https://hoo.be/leonardtech`) 
+                 await repondre(`Support Here My Owner By Follow This Channel Please :https://whatsapp.com/channel/0029VbBAqgd4inooNwRQ4K0J`) 
 
    
 
@@ -219,7 +219,7 @@ zokou({ nomCom: 'problem',
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || Creator = 𖥘 ʟᴇᴏɴᴀʀᴅ ᴛᴇᴄʜ 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://hoo.be/leonardtech
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VbBAqgd4inooNwRQ4K0J
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
 Wanna talk to me?👉 https://t.me/leonardTech 👈

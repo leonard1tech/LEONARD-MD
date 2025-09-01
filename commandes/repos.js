@@ -22,7 +22,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "💥", nomFichier: __
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow whatsaap user
-this is* *leonard_md.*\n support our channel *by*, https://hoo.be/leonardtech
+this is* *leonard_md.*\n support our channel *by*, https://whatsapp.com/channel/0029VbBAqgd4inooNwRQ4K0J
 
 _________● *ʟᴇᴏɴᴀʀᴅ* ●____________
 |💥 *ʀᴇᴘᴏsɪᴛᴏʀʏ:* ${data.html_url}
@@ -32,7 +32,7 @@ _________● *ʟᴇᴏɴᴀʀᴅ* ●____________
 |🕐 *ᴜᴘᴅᴀᴛᴇ ᴏɴ:* ${repoInfo.lastUpdate}
 |👨‍💻 *ᴏᴡɴᴇʀ:* *ʟᴇᴏɴᴀʀᴅ ᴛᴇᴄʜ*
 |💞 *ᴛʜᴇᴍᴇ:* *ʟᴇᴏɴᴀʀᴅ*
-|🥰*ᴏɴʟʏ ɢᴏᴅ ᴄᴀɴ ᴊᴜᴅɢᴇ ᴍᴇ!👑*
+|🥰 *ᴏɴʟʏ ɢᴏᴅ ᴄᴀɴ ᴊᴜᴅɢᴇ ᴍᴇ!👑*
 __________________________________
             *ᴍᴀᴅᴇ ᴡɪᴛʜ ʟᴇᴏɴᴀʀᴅ ᴛᴇᴄʜ*`;
 
