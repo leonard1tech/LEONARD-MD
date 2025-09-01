@@ -1,6 +1,6 @@
-const { cmd } = require("../command");
+const { zokou } = require("../framework/zokou");
 
-cmd({
+zokou({
   pattern: "vv",
   alias: ["viewonce", 'retrive'],
   react: '☢️',
