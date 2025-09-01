@@ -1,6 +1,6 @@
-const { cmd } = require("../command");
+const { zokou } = require("../framework/zokou");
 
-cmd({
+zokou({
   pattern: "vv2",
   alias: ["wah", "ohh", "oho", "🙂", "nice", "ok"],
   desc: "Owner Only - retrieve quoted message back to user",
