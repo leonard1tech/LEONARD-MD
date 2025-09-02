@@ -54,7 +54,8 @@
 
 
 
-<h1 align="centre"> Join For More Updates </h1>
+<h1 align="centre"> More Updates  </h1>
+
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbBAqgd4inooNwRQ4K0J"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"></a>
 
