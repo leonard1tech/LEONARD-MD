@@ -54,20 +54,8 @@
 
 
 
-<h1 align="center"> 𝐊𝐢𝐧𝐠𝐝𝐨𝐦 </h1>
-
-
-<table>
-  <tr>
-    <td>𝑲𝒊𝒏𝒈 𝑳𝒆𝒐𝒏𝒂𝒓𝒅👑</td></td>
-    <td>𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍</td>
-  </tr>
-  <tr>
-    <td><a href="https://wa.me/255757103671?"><img src="https://files.catbox.moe/456otp.jpg" width="180"</td>
-    <td><a href="https://whatsapp.com/channel/0029VbAjawl9MF8vQQa0ZT32"><img src="https://files.catbox.moe/ww8n7i.jpg" width="180"</td>
-  </tr>
-</table>
-
-</p>
+<h1 align="centre"> Join For More Updates </h1>
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VbBAqgd4inooNwRQ4K0J"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"></a>
 
 
