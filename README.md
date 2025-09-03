@@ -46,16 +46,23 @@
 
 
 
-
-
-
-
-
-
-
-
-### 💥 More Updates
+### More Updates Here 🤝
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029VbBAqgd4inooNwRQ4K0J"><img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"></a>
+  <a href="https://wa.me/255757103671">
+    <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="12%" alt="WhatsApp DM" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://whatsapp.com/channel/0029VbBAqgd4inooNwRQ4K0J">
+    <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="12%" alt="WhatsApp Channel" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://hoo.be/leonardtech">
+    <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/web.png" width="13%" alt="Website" />
+  </a>
+</p>
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=FFA500&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg)
 
 
