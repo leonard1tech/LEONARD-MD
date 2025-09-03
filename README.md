@@ -46,7 +46,7 @@
 
 
 
-### More Updates Here 🤝
+<h1 align="center"> More Updates Here 🤝 </h1>
 <p align="center">
   <a href="https://wa.me/255757103671">
     <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="12%" alt="WhatsApp DM" />
