@@ -57,7 +57,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://hoo.be/leonardtech">
-    <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/web.png" width="13%" alt="Website" />
+    <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/web.png" width="12%" alt="Website" />
   </a>
 </p>
 
