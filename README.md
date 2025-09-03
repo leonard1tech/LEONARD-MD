@@ -57,7 +57,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://hoo.be/leonardtech">
-    <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png"width="12%" alt="WhatsApp Group" />
+    <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Messenger.png"width="12%" alt="Messenger Chart" />
   </a>
 </p>
 
