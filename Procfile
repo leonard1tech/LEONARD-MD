@@ -1,4 +1,2 @@
-
-
-
-web: node index.js && node index.js
+web: node server.js
+worker: node index.js
