@@ -1,131 +1,152 @@
 {
-  "name": "LEONARD-MD",
-  "description": "Best WhatsApp bot💥 developed by LEONARD TECH",
-  "keywords": ["bot", "node", "baileys", "whatsapp"],
-  "logo": "https://files.catbox.moe/j8v9gs.jpg",
-  "repository": "https://github.com/leonard1tech/LEONARD-MD",
-  "success_url": "/",
-  "stack": "heroku-24",
-  "env": {
-    "BOT_NAME": {
-      "description": "Bot name",
-      "value": "LEONARD-MD",
-      "required": true
+  "name":"LEONARD-MD",
+  "description":"Best whatsapp bot💥 developed by LEONARD-MD",
+  "keywords":["bot","node","baileys","whatsapp"],
+  "logo":"https://files.catbox.moe/j8v9gs.jpg",
+  "repository":"https://github.com/ekitale/maths-project",
+  "succes_url":"/",
+  "stack":"heroku-24",
+  "env":{
+    "PREFIX":
+    {
+      "description":"choose your prefix of bot",
+      "value":".",
+      "required":true
     },
-    "OWNER_NAME": {
-      "description": "Owner Name",
-      "value": "© ιєσɳαɾd тєƈн",
-      "required": false
+    "AUTO_READ_STATUS":
+    {
+      "description":"Your contact status will be read automatically(type yes to active or no to deactive  ; don't write in capital letter)",
+      "value":"yes",
+      "required":false
+    }, "AUTO_DOWNLOAD_STATUS":
+    {
+      "description":"Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
+      "value":"no",
+      "required":false
     },
-    "NUMERO_OWNER": {
-      "description": "Owner number (start with 255, no '+')",
-      "value": "255757103671",
-      "required": true
+    "AUTO_READ":
+    {
+      "description":"Your contact  will be read messages automatically(type yes to active or no to deactive  ; don't write in capital letter)",
+      "value":"no",
+      "required":false   
+      },
+  "AUTO_REACT":
+    {
+      "description":"Enter yes for your bot to auto react",
+      "value":"no",
+      "required":false
+         },
+  "CHATBOT":
+    {
+      "description":"Enter yes for your bot to auto reply messages",
+      "value":"no",
+      "required":false
     },
-    "SESSION_ID": {
-      "description": "Session ID (base64 after QR scan)",
-      "value": "",
-      "required": true
+	  
+"ANTICALL":
+    {
+      "description":"Enter yes for your bot to auto reject calls",
+      "value":"yes",
+      "required":false
     },
-    "PREFIX": {
-      "description": "Choose your prefix for commands, e.g., . or !",
-      "value": ".",
-      "required": true
+"AUTO_REACT_STATUS":
+    {
+      "description":"Enter yes for your bot to auto like status",
+      "value":"yes",
+      "required":true
     },
-    "AUTO_READ": {
-      "description": "Read messages automatically? (yes/no)",
-      "value": "yes",
-      "required": false
-    },
-    "ANTI_DELETE_MESSAGE": {
-      "description": "Enable anti-delete messages? (yes/no)",
-      "value": "yes",
-      "required": false
-    },
-    "AUTO_REACT_STATUS": {
-      "description": "Auto-like viewed statuses? (yes/no)",
-      "value": "yes",
-      "required": false
-    },
-    "AUTO_REACT": {
-      "description": "Auto-react to messages? (yes/no)",
-      "value": "yes",
-      "required": false
-    },
-    "STATUS_LIKE_EMOJI": {
-      "description": "Emoji for auto-react (💋, ♥️, 💞, 💔)",
-      "value": "♥️",
-      "required": false
-    },
-    "AUTO_VIEW_STATUS": {
-      "description": "Auto view status? (yes/no)",
-      "value": "yes",
-      "required": false
-    },
-    "PM_PERMIT": {
-      "description": "Other user can't use your bot in PM? (yes/no)",
-      "value": "no",
-      "required": false
-    },
-    "PUBLIC_MODE": {
-      "description": "Set bot public mode? (yes/no)",
-      "value": "yes",
-      "required": false
-    },
-    "CHAT_BOT": {
-      "description": "Enable chatbot reply system? (yes/no)",
-      "value": "no",
-      "required": false
-    },
-    "AUDIO_CHAT_BOT": {
-      "description": "Enable audio chatbot? (yes/no)",
-      "value": "no",
-      "required": false
-    },
-    "STARTING_BOT_MESSAGE": {
-      "description": "Show starting bot message? (yes/no)",
-      "value": "no",
-      "required": false
-    },
-    "PRESENCE": {
-      "description": "Bot presence: 1 online, 2 typing, 3 recording",
-      "value": "2",
-      "required": false
-    },
-    "WARN_COUNT": {
-      "description": "Limit of warning commands",
-      "value": "3",
-      "required": false
-    },
-    "BOT_MENU_LINKS": {
-      "description": "Links for bot menu, comma separated",
-      "value": "https://files.catbox.moe/aktbgo.jpg",
-      "required": false
-    },
-    "HEROKU_API_KEY": {
-      "description": "Heroku API key (optional)",
-      "value": "",
-      "required": false
-    },
-    "HEROKU_APP_NAME": {
-      "description": "Heroku app name (optional)",
-      "value": "",
-      "required": false
+     "PM_PERMIT" :
+     {
+      "description":"Other user can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
+      "value":"no",
+      "required":false
     }
+    ,
+    "BOT_NAME" : {
+       
+      "description":"put A name for your bot",
+      "value":"LEONARD-MD",
+      "required":false
+
+    } ,
+     "BOT_MENU_LINKS" : {
+    
+      "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
+      "value":"https://files.catbox.moe/j8v9gs.jpg",
+      "required":false
+       
+     },
+    "PUBLIC_MODE":
+    {
+      "description":"type yes to put your bot on public mode or no to put it on private mod",
+      "value":"yes",
+      "required":false
+    }
+	,
+    "HEROKU_API_KEY": {
+    "description": "insert your heroku api-key (this is optionnal)",
+     "required" :false
+    },
+  "HEROKU_APP_NAME": {
+    "description": "insert your heroku APP NAME (put the name you put on top)",
+     "required" :false
+    }  
+	  ,
+    "SESSION_ID":
+    {
+      "description":"put your session ID , the code you receive after scanning Qr code",   
+      "value":"",
+      "required":true
+      
+    },
+    "OWNER_NAME":
+    {
+    
+    "desc": "Your Name",
+    "required": false,
+    "value": "© ιєσɳαɾd тєƈн"
   },
-  "buildpacks": [
+    "NUMERO_OWNER":
+  {
+    
+    "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
+    "required":true,
+    "value": "255757103671"
+  },
+    "WARN_COUNT":
+  {
+    "desc": "this is the limit of warn for warning commandes",
+    "required": false,
+    "value": "3"
+  },
+  "STARTING_BOT_MESSAGE":
+  {
+    "description": "if you don't want startting-bot-message put no else put yes",
+    "required": true,
+    "value": "yes"
+  },
+  "PRESENCE":{
+    "description":"Mark your presence: 1 online. 2 typing a message. 3 recording . Or leave the field blank to indicate your real state.",
+    "value":"",
+    "required": false
+  },
+  "ANTI_DELETE_MESSAGE" : {
+    "description": "if you want to enable anti delete message put yes else put no",
+    "value": "yes",
+        "required": true
+  }
+  },
+	
+ 
+	  "buildpacks": [
     {
       "url": "heroku/nodejs"
-    }
-  ],
-  "formation": {
-    "web": {
-      "quantity": 1,
-      "size": "free"
     },
-    "worker": {
-      "quantity": 1,
-      "size": "free"
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
     }
-  }
+  ]
 }
