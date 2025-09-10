@@ -1,6 +1,6 @@
     if (response) {
         await sock.sendMessage(chatId, {
-            text: `💥 > *© 𝕃𝕖𝕠𝕟𝕒𝕣𝕕 𝕓𝕠𝕥 ℝ𝕖𝕡𝕣𝕚𝕖𝕕:*\n\n${response}\n\n💡 > *AI Powered by Leonard Techl*`
+            text: `💥 > *© 𝕃𝕖𝕠𝕟𝕒𝕣𝕕 𝕓𝕠𝕥 ℝ𝕖𝕡𝕣𝕚𝕖𝕕:*\n\n${response}\n\n💡 > *AI Powered by Leonard Tech*`
         }, { quoted: message });
     } else {
         await sock.sendMessage(chatId, {

@@ -66,7 +66,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-┏━━ ʟᴇᴏɴᴀʀᴅ ᴍᴅ ━━┓
+┏━━ ☢️ 𝗟𝗘𝗢𝗡𝗔𝗥𝗗 𝗠𝗗 ☢️ ━━┓
 ┃   ᴍᴏᴅᴇ: ${mode}
 ┃   ᴜsᴇʀ : ${s.OWNER_NAME}
 ┃

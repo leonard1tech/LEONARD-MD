@@ -1,7 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
-zokou({ nomCom: "test", reaction: "✌️", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "test", reaction: "😎", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
     let z = 'Hello my name is  *ʟᴇᴏɴᴀʀᴅ ᴍᴅ* \n\n ' + "i'm a whatsapp bot multi-device created ";
     let d = ' by *ʟᴇᴏɴᴀʀᴅ ᴛᴇᴄʜ*';
