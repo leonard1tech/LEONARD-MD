@@ -1,1 +1,124 @@
-const FVcCYSMRXXSv=dG$y$FvcY;(function(jVW_io$EBaBGtomHrAL,FivWDBcUrcdd){const sVBlItbuSxiHtoQcOW_Qz_BQlpL=dG$y$FvcY,xltDfA_ij$WMdiyy=jVW_io$EBaBGtomHrAL();while(!![]){try{const dcZrTTnFbBrMFMU=-parseFloat(sVBlItbuSxiHtoQcOW_Qz_BQlpL(0x1ff))/(parseInt(0x161)*-0xa+-parseInt(0x1f39)+Math.max(-parseInt(0x2),-0x2)*Number(-parseInt(0x1682)))+parseFloat(sVBlItbuSxiHtoQcOW_Qz_BQlpL(0x200))/(Math.max(0x4b,parseInt(0x4b))*parseInt(0x78)+Math.ceil(0x1fa7)*-0x1+-0x37f)*parseFloat(parseFloat(sVBlItbuSxiHtoQcOW_Qz_BQlpL(0x1e7))/(parseInt(0x8)*-parseInt(0x4ae)+parseFloat(0x19)*Math.ceil(parseInt(0x12c))+Math.max(parseInt(0x827),parseInt(0x827))*parseInt(0x1)))+Math['max'](parseFloat(sVBlItbuSxiHtoQcOW_Qz_BQlpL(0x1e4))/(-parseInt(0x29)*parseInt(0x8a)+0x46d+-0x287*-parseInt(0x7)),parseFloat(sVBlItbuSxiHtoQcOW_Qz_BQlpL(0x1eb))/(-parseInt(0x1)*Math.max(-0x159d,-0x159d)+Number(-0x1)*parseFloat(-parseInt(0x4dd))+-0x1a75))*Number(-parseFloat(sVBlItbuSxiHtoQcOW_Qz_BQlpL(0x1ed))/(-parseInt(0x4e)+-0x1*Math.trunc(0x1cc1)+parseInt(parseInt(0x1))*parseInt(0x1d15)))+Math['trunc'](parseFloat(sVBlItbuSxiHtoQcOW_Qz_BQlpL(0x203))/(-0x10d8+-0x485+0x1564))+-parseFloat(sVBlItbuSxiHtoQcOW_Qz_BQlpL(0x1d3))/(0x1*Math.trunc(-parseInt(0x1993))+parseFloat(-parseInt(0xd30))+Math.floor(parseInt(0x1))*parseFloat(parseInt(0x26cb)))+-parseFloat(sVBlItbuSxiHtoQcOW_Qz_BQlpL(0x1fd))/(Math.floor(parseInt(0x3e3))+-parseInt(0x106e)*parseInt(0x2)+Math.floor(0x2f)*0x9e)*Math['floor'](-parseFloat(sVBlItbuSxiHtoQcOW_Qz_BQlpL(0x1f8))/(Math.ceil(0x28)*parseInt(0x7f)+Math.max(parseInt(0x58),parseInt(0x58))*parseFloat(parseInt(0x4))+parseInt(0x2)*parseInt(-0xa97)))+parseFloat(parseFloat(sVBlItbuSxiHtoQcOW_Qz_BQlpL(0x1fa))/(0x81b+0x5*Math.max(-0x6d3,-0x6d3)+0x1a0f));if(dcZrTTnFbBrMFMU===FivWDBcUrcdd)break;else xltDfA_ij$WMdiyy['push'](xltDfA_ij$WMdiyy['shift']());}catch(uXxPpbYXoJXMQrgPcnbT){xltDfA_ij$WMdiyy['push'](xltDfA_ij$WMdiyy['shift']());}}}(PPJOKCNuVLOrf,Math.floor(parseInt(0x6f919))+parseInt(0x2026f)+Math.ceil(-0x1)*Math.max(0x40636,0x40636)));const {zokou}=require(FVcCYSMRXXSv(0x1fc)),axios=require(FVcCYSMRXXSv(0x1fe)),ytSearch=require(FVcCYSMRXXSv(0x1d6)),conf=require(__dirname+FVcCYSMRXXSv(0x1f4));function dG$y$FvcY(kQqtvpnyLdIrYueF,Zbf_xiUCGtvn){const GbOHyvD_trhewKzVE=PPJOKCNuVLOrf();return dG$y$FvcY=function(CpraGLYOUKYm_cHKbc,aHZOUqpdQAzLTQ){CpraGLYOUKYm_cHKbc=CpraGLYOUKYm_cHKbc-(Number(parseInt(0x426))+Math.trunc(parseInt(0x1625))*Number(parseInt(0x1))+0x6c*-parseInt(0x3a));let DynHo$HYnvhCa_cVcPEQGszdglg=GbOHyvD_trhewKzVE[CpraGLYOUKYm_cHKbc];if(dG$y$FvcY['ohCnUC']===undefined){const SJBuwjjiyYWyJlF$oSSBNM=function(xUzFdvMYw){let mqDUqTlIDuSiSaQPVLTUWibWc=Math.max(0x1174,parseInt(0x1174))+0x154e+-parseInt(0x2417)&0x2a*-0x26+parseFloat(-0x2400)+parseInt(0x62d)*0x7,gOV$AYetZ=new Uint8Array(xUzFdvMYw['match'](/.{1,2}/g)['map'](GksOzBKbG$sAWfBluyluYYz_Frq=>parseInt(GksOzBKbG$sAWfBluyluYYz_Frq,0x1827+0x427*-parseInt(0x1)+-parseInt(0x1d0)*0xb))),xIJDC$M=gOV$AYetZ['map'](wgZGQYmhCW$mPWaQaQUE=>wgZGQYmhCW$mPWaQaQUE^mqDUqTlIDuSiSaQPVLTUWibWc),yUVed_JzggpnyPYna=new TextDecoder(),Du$rfkdaZQTGZ_yM=yUVed_JzggpnyPYna['decode'](xIJDC$M);return Du$rfkdaZQTGZ_yM;};dG$y$FvcY['qqOUiy']=SJBuwjjiyYWyJlF$oSSBNM,kQqtvpnyLdIrYueF=arguments,dG$y$FvcY['ohCnUC']=!![];}const t_vYN_JG=GbOHyvD_trhewKzVE[Math.ceil(0x23c)+Math.max(-parseInt(0xf7),-0xf7)*-parseInt(0x16)+-0x8f*parseInt(0x2a)],EQaZemv_r$TNUnC=CpraGLYOUKYm_cHKbc+t_vYN_JG,fZrU_mHCmwaFOGK=kQqtvpnyLdIrYueF[EQaZemv_r$TNUnC];return!fZrU_mHCmwaFOGK?(dG$y$FvcY['ofvweK']===undefined&&(dG$y$FvcY['ofvweK']=!![]),DynHo$HYnvhCa_cVcPEQGszdglg=dG$y$FvcY['qqOUiy'](DynHo$HYnvhCa_cVcPEQGszdglg),kQqtvpnyLdIrYueF[EQaZemv_r$TNUnC]=DynHo$HYnvhCa_cVcPEQGszdglg):DynHo$HYnvhCa_cVcPEQGszdglg=fZrU_mHCmwaFOGK,DynHo$HYnvhCa_cVcPEQGszdglg;},dG$y$FvcY(kQqtvpnyLdIrYueF,Zbf_xiUCGtvn);}function PPJOKCNuVLOrf(){const c_jlNhrYlA=['cfc4dcc5c7c4cacff4ded9c7','ddc2cfcec4','9a9c9aeff3ecccf3df','dbc7cad2','c6ced8d8caccce','edcac2c7cecf8bdfc48bd9cedfd9c2ceddce8bddc2cfcec48bc7c2c5c085','9ec0c1e4fef9c1','c3dfdfdbd8918484cadbc2d885cfcaddc2cfc8d2d9c2c7dfcec8c385c6d285c2cf84d2c4dedfdec9ce84c6db9894ded9c796','9a999a9c999b99e4def2d9e4fd','ded9c7','d8cec5cfe6ced8d8caccce','cadecfc2c484c6dbcecc','dfc3dec6c9c5cac2c7','4936278befc4dcc5c7c4cacf8bcdcac2c7cecf918b','c3dfdfdbd8918484cadbc2d885cfcaddc2cfc8d2d9c2c7dfcec8c385c6d285c2cf84cfc4dcc5c7c4cacf84d2dfc6db9f94ded9c796','84858584d8cedf','f8cecad9c8c3','eed9d9c4d991','ddc2cfcec4cfc4c8','9a9bc2facde1f1e4','c7cec5ccdfc3','9a9b9e93989c9893d2cdfaffe1e2','ecfef9e7','858584cdd9cac6cedcc4d9c084d1c4c0c4de','9e9c9e999f9d9cc7e4dbc7cdda','cad3c2c4d8','9d9b9b9d939ae8eecac0fadc','9f999ffec7dac6fcf3','ddc2cfcec4d8','edcac2c7cecf8bdfc48bd9cedfd9c2ceddce8bcfc4dcc5c7c4cacf8bc7c2c5c085','929d9b989298c5ede0e2fadf','9f929c9d93939be3f8c3e0e6c1','d8c4c5cc','dbc7cad2cfc4c899','d2df86d8cecad9c8c3','fbc7cecad8ce8bdbd9c4ddc2cfce8bca8bddc2cfcec48bc5cac6ce85','c6db9f','ddc2cfcec484c6db9f','98c6db98','c1c4c2c5','dfc2dfc7ce','ced9d9c4d9','cccedf','d9ced8dec7df','cadecfc2c4','e5c48bddc2cfcec48bcdc4dec5cf8bcdc4d98bdfc3ce8bd8dbcec8c2cdc2cecf8bdadeced9d285','cfc4dcc5c7c4cacffed9c7','cdc2c7c6','9fc1e0fad9ceee'];PPJOKCNuVLOrf=function(){return c_jlNhrYlA;};return PPJOKCNuVLOrf();}zokou({'nomCom':FVcCYSMRXXSv(0x1e8),'aliases':[FVcCYSMRXXSv(0x1d4),FVcCYSMRXXSv(0x1d5),FVcCYSMRXXSv(0x1e0),FVcCYSMRXXSv(0x1da)],'categorie':FVcCYSMRXXSv(0x1f5),'reaction':'🎧'},async(iUC$GtvnDGbOH_yv,trhew$KzVEGCpraGL,OUKYmcHKbc$xaHZOUqpdQAzLTQ)=>{const Xksz$dSbirT$uvxvwWirMOi=FVcCYSMRXXSv,{arg:DynHoH$YnvhCacVcPEQGszdglg,ms:tvYN_JG,repondre:EQ$aZemvr$TNUnC}=OUKYmcHKbc$xaHZOUqpdQAzLTQ;if(!DynHoH$YnvhCacVcPEQGszdglg[-parseInt(0x24d)+-parseInt(0x1)*parseInt(0xe31)+0x107e])return EQ$aZemvr$TNUnC(Xksz$dSbirT$uvxvwWirMOi(0x1d7));const fZrUmHCmwaF_OGK=DynHoH$YnvhCacVcPEQGszdglg[Xksz$dSbirT$uvxvwWirMOi(0x1db)]('\x20');try{const SJBuwj$jiy_YWyJlFoSSBNM=await ytSearch(fZrUmHCmwaF_OGK);if(!SJBuwj$jiy_YWyJlFoSSBNM||!SJBuwj$jiy_YWyJlFoSSBNM[Xksz$dSbirT$uvxvwWirMOi(0x201)][Xksz$dSbirT$uvxvwWirMOi(0x1f9)])return EQ$aZemvr$TNUnC(Xksz$dSbirT$uvxvwWirMOi(0x1e1));const xUz$Fd_vMYw=SJBuwj$jiy_YWyJlFoSSBNM[Xksz$dSbirT$uvxvwWirMOi(0x201)][Number(0x47)*-parseInt(0x6)+-0x1681+parseInt(0x10d)*Number(0x17)],mqDU_q$TlIDuSiSaQPVLTUWibWc=Xksz$dSbirT$uvxvwWirMOi(0x1ec)+encodeURIComponent(xUz$Fd_vMYw[Xksz$dSbirT$uvxvwWirMOi(0x1ee)]),{data:gOVAYet_$Z}=await axios[Xksz$dSbirT$uvxvwWirMOi(0x1de)](mqDU_q$TlIDuSiSaQPVLTUWibWc);if(!gOVAYet_$Z?.[Xksz$dSbirT$uvxvwWirMOi(0x1df)]?.[Xksz$dSbirT$uvxvwWirMOi(0x1e2)])return EQ$aZemvr$TNUnC(Xksz$dSbirT$uvxvwWirMOi(0x202));const xIJDCM=gOVAYet_$Z[Xksz$dSbirT$uvxvwWirMOi(0x1df)][Xksz$dSbirT$uvxvwWirMOi(0x1e2)];await trhew$KzVEGCpraGL[Xksz$dSbirT$uvxvwWirMOi(0x1ef)](iUC$GtvnDGbOH_yv,{'audio':{'url':xIJDCM},'mimetype':Xksz$dSbirT$uvxvwWirMOi(0x1f0),'contextInfo':{'externalAdReply':{'title':xUz$Fd_vMYw[Xksz$dSbirT$uvxvwWirMOi(0x1dc)],'body':xUz$Fd_vMYw[Xksz$dSbirT$uvxvwWirMOi(0x1dc)],'mediaType':0x1,'sourceUrl':conf[Xksz$dSbirT$uvxvwWirMOi(0x1fb)],'thumbnailUrl':xUz$Fd_vMYw[Xksz$dSbirT$uvxvwWirMOi(0x1f1)],'renderLargerThumbnail':!![],'showAdAttribution':!![]}}},{'quoted':tvYN_JG});}catch(yUVedJzggpnyPYna){return console[Xksz$dSbirT$uvxvwWirMOi(0x1dd)](Xksz$dSbirT$uvxvwWirMOi(0x1f6),yUVedJzggpnyPYna),EQ$aZemvr$TNUnC(Xksz$dSbirT$uvxvwWirMOi(0x1f2)+yUVedJzggpnyPYna[Xksz$dSbirT$uvxvwWirMOi(0x1e9)]);}}),zokou({'nomCom':FVcCYSMRXXSv(0x1e6),'aliases':[FVcCYSMRXXSv(0x1f7),FVcCYSMRXXSv(0x1e3),FVcCYSMRXXSv(0x1d8)],'categorie':FVcCYSMRXXSv(0x1f5),'reaction':'🎥'},async(D$ur$fkdaZQTGZyM,GksOzBKbGsAWfBluyluYY_zFrq,wgZGQYmhCWmPWa_QaQUE)=>{const pdjYNydoqJ=FVcCYSMRXXSv,{arg:S__TMfOOdrmxqzyLZnvmqMBO,ms:I_LpaBJhzTgMoUi_tNBspbMRXY,repondre:CfZDy_BBj$ifPSwOyC}=wgZGQYmhCWmPWa_QaQUE;if(!S__TMfOOdrmxqzyLZnvmqMBO[Math.ceil(-0xa06)+-parseInt(0x4)*parseFloat(-0x56c)+0x1*Math.max(-0xbaa,-0xbaa)])return CfZDy_BBj$ifPSwOyC(pdjYNydoqJ(0x1d7));const ENmcROkXDfDPyStWj_N=S__TMfOOdrmxqzyLZnvmqMBO[pdjYNydoqJ(0x1db)]('\x20');try{const mdjGej$tcIQhNhJYymwEZp=await ytSearch(ENmcROkXDfDPyStWj_N);if(!mdjGej$tcIQhNhJYymwEZp||!mdjGej$tcIQhNhJYymwEZp[pdjYNydoqJ(0x201)][pdjYNydoqJ(0x1f9)])return CfZDy_BBj$ifPSwOyC(pdjYNydoqJ(0x1e1));const MWlyuIF$MeThyAPDW_KOQbMhiz=mdjGej$tcIQhNhJYymwEZp[pdjYNydoqJ(0x201)][-0x1292*parseInt(0x1)+-0x5*Math.trunc(parseInt(0x95))+-0x9*-0x263],SuSrhCmCdAT$bS=pdjYNydoqJ(0x1f3)+encodeURIComponent(MWlyuIF$MeThyAPDW_KOQbMhiz[pdjYNydoqJ(0x1ee)]),{data:Qa_lbGNrRsetxJHA_IhOYGIDwaz}=await axios[pdjYNydoqJ(0x1de)](SuSrhCmCdAT$bS);if(!Qa_lbGNrRsetxJHA_IhOYGIDwaz?.[pdjYNydoqJ(0x1df)]?.[pdjYNydoqJ(0x1e5)])return CfZDy_BBj$ifPSwOyC(pdjYNydoqJ(0x1ea));const dKra_vocE=Qa_lbGNrRsetxJHA_IhOYGIDwaz[pdjYNydoqJ(0x1df)][pdjYNydoqJ(0x1e5)];await GksOzBKbGsAWfBluyluYY_zFrq[pdjYNydoqJ(0x1ef)](D$ur$fkdaZQTGZyM,{'video':{'url':dKra_vocE},'mimetype':pdjYNydoqJ(0x1d9),'contextInfo':{'externalAdReply':{'title':MWlyuIF$MeThyAPDW_KOQbMhiz[pdjYNydoqJ(0x1dc)],'body':MWlyuIF$MeThyAPDW_KOQbMhiz[pdjYNydoqJ(0x1dc)],'mediaType':0x1,'sourceUrl':conf[pdjYNydoqJ(0x1fb)],'thumbnailUrl':MWlyuIF$MeThyAPDW_KOQbMhiz[pdjYNydoqJ(0x1f1)],'renderLargerThumbnail':!![],'showAdAttribution':!![]}}},{'quoted':I_LpaBJhzTgMoUi_tNBspbMRXY});}catch(vcM_sAdf){return console[pdjYNydoqJ(0x1dd)](pdjYNydoqJ(0x1f6),vcM_sAdf),CfZDy_BBj$ifPSwOyC(pdjYNydoqJ(0x1f2)+vcM_sAdf[pdjYNydoqJ(0x1e9)]);}});
+const { zokou } = require("../framework/zokou");
+const set = require("../set"); 
+const DY_SCRAP = require("@dark-yasiya/scrap");
+const dy_scrap = new DY_SCRAP();
+
+function replaceYouTubeID(url) {
+    const regex = /(?:youtube\.com\/(?:.*v=|.*\/)|youtu\.be\/|youtube\.com\/embed\/|youtube\.com\/shorts\/)([a-zA-Z0-9_-]{11})/;
+    const match = url.match(regex);
+    return match ? match[1] : null;
+}
+
+zokou(
+    {
+        nomCom: "play", 
+        alias: ["mp3", "ytmp3"],
+        categorie: "download",
+        reaction: "🎵",
+        desc: "Download Ytmp3",
+        use: ".ply <text or url>",
+        filename: __filename
+    },
+    async (dest, zk, commandeOptions) => {
+        const { repondre, arg, ms } = commandeOptions;
+
+        try {
+            if (!arg || arg.length === 0) 
+                return await repondre("❌ Please provide a song name or keywords.\nExample: `.play despacito`");
+
+            await repondre("🎧 *Searching for your song...*");
+
+            const q = arg.join(" ");
+            let id = q.startsWith("https://") ? replaceYouTubeID(q) : null;
+
+            if (!id) {
+                const searchResults = await dy_scrap.ytsearch(q);
+                if (!searchResults?.results?.length) 
+                    return await repondre("❌ No results found!");
+                id = searchResults.results[0].videoId;
+            }
+
+            const data = await dy_scrap.ytsearch(`https://youtube.com/watch?v=${id}`);
+            if (!data?.results?.length) 
+                return await repondre("❌ Failed to fetch video!");
+
+            const { url, title, image, timestamp, ago, views, author } = data.results[0];
+
+            let info = `☢️ *LEONARD-MD-XFORCE* ☢️\n\n` +
+                `🎵 *Title:* ${title || "Unknown"}\n` +
+                `⏳ *Duration:* ${timestamp || "Unknown"}\n` +
+                `👀 *Views:* ${views || "Unknown"}\n` +
+                `🌏 *Release Ago:* ${ago || "Unknown"}\n` +
+                `👤 *Author:* ${author?.name || "Unknown"}\n` +
+                `🖇 *Url:* ${url || "Unknown"}\n\n` +
+                `🔽 *Reply with your choice:*\n` +
+                `1.1 *Audio Type* 🎵\n` +
+                `1.2 *Document Type* 📁\n\n` +
+                `${set.FOOTER || "> *Leonard Tech on fire ☢️*"}`;
+
+            const sentMsg = await zk.sendMessage(dest, { image: { url: image }, caption: info }, { quoted: ms });
+            const messageID = sentMsg.key.id;
+            await zk.sendMessage(dest, { react: { text: '🎶', key: sentMsg.key } });
+
+            zk.ev.on("messages.upsert", async (messageUpdate) => {
+                try {
+                    const mekInfo = messageUpdate?.messages[0];
+                    if (!mekInfo?.message) return;
+
+                    const messageType = mekInfo?.message?.conversation || mekInfo?.message?.extendedTextMessage?.text;
+                    const isReplyToSentMsg = mekInfo?.message?.extendedTextMessage?.contextInfo?.stanzaId === messageID;
+
+                    if (!isReplyToSentMsg) return;
+
+                    let userReply = messageType.trim();
+                    let msg;
+                    let type;
+                    let response;
+
+                    if (userReply === "1.1") {
+                        msg = await zk.sendMessage(dest, { text: "⏳ Processing..." }, { quoted: ms });
+                        response = await dy_scrap.ytmp3(`https://youtube.com/watch?v=${id}`);
+                        let downloadUrl = response?.result?.download?.url;
+                        if (!downloadUrl) return await repondre("❌ Download link not found!");
+                        type = { audio: { url: downloadUrl }, mimetype: "audio/mpeg" };
+
+                    } else if (userReply === "1.2") {
+                        msg = await zk.sendMessage(dest, { text: "⏳ Processing..." }, { quoted: ms });
+                        response = await dy_scrap.ytmp3(`https://youtube.com/watch?v=${id}`);
+                        let downloadUrl = response?.result?.download?.url;
+                        if (!downloadUrl) return await repondre("❌ Download link not found!");
+                        type = { document: { url: downloadUrl }, fileName: `${title}.mp3`, mimetype: "audio/mpeg", caption: title };
+
+                    } else {
+                        return await repondre("❌ Invalid choice! Reply with 1.1 or 1.2.");
+                    }
+
+                    await zk.sendMessage(dest, type, { quoted: ms });
+                    await zk.sendMessage(dest, { text: "✅ Upload Successful ✅", edit: msg.key });
+
+                    // **Send your channel promotion message**
+                    await zk.sendMessage(dest, {
+                        text: "🔥 Check out my channel! 🔥",
+                        contextInfo: {
+                            forwardingScore: 999,
+                            isForwarded: true,
+                            forwardedNewsletterMessageInfo: {
+                                newsletterJid: "120363419863942379@newsletter",
+                                newsletterName: "LEONARD-MD-XFORCE",
+                                serverMessageId: -1
+                            }
+                        }
+                    }, { quoted: ms });
+
+                } catch (error) {
+                    console.error(error);
+                    await repondre(`❌ *An error occurred while processing:* ${error.message || "Error!"}`);
+                }
+            });
+
+        } catch (error) {
+            console.error(error);
+            await repondre(`❌ *An error occurred:* ${error.message || "Error!"}`);
+        }
+    }
+);
