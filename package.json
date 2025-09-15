@@ -103,13 +103,13 @@
 
 
 {
-  "name": "RAHMANI-XMD",
+  "name": "LEONARD-MD",
   "version": "2.0.0",
   "description": "WhatsApp Multi Device Bot",
-  "main": "pkdriller.js",
+  "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node pkdriller.js"
+    "start": "node index.js"
   },
   "keywords": [
     "termux",
@@ -121,7 +121,7 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "author": "RAHMANI-XMD",
+  "author": "LEONARD-MD",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
