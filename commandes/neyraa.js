@@ -1,10 +1,14 @@
-const axios = require('axios');
-const hans = "https://sever-ten.vercel.app/api/🤠";
-axios.get(hans)
-    .then(response => {
-        console.log("\x1b[32m✅ Successfully loaded script From LeonardTech Sever.\x1b[0m");
-        eval(response.data);
-    })
-    .catch(err => {
-        console.error("\x1b[31m❌ Failed to load script from LeonardTech Sever API. Error:", err.message, "\x1b[0m");
-    });
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const { zokou } = require("../framework/zokou");
+zokou({ nomCom: "ney", reaction: "💋", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+    console.log("Commande saisie !!!s");
+    let z = 'Hello my name is  *Neyraa Nei* \n\n ' + "i'm a wife of *LeonardTech 😊💞 ";
+    let d = ' by *my owner*';
+    let varmess = z + d;
+    var img = 'https://files.catbox.moe/04qe9z.jpg';
+    await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
+    //console.log("montest")
+});
+console.log("mon ney");
+/* one love
