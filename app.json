@@ -1,11 +1,11 @@
 {
   "name":"LEONARD-MD",
-  "description":"Leonard-Md simple wa bot 🖤",
+  "description":"Best whatsapp bot💥 developed by LEONARD-MD",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/j8v9gs.jpg",
-  "repository":"https://github.com/leonard1tech/LEONARD-MD",
+  "repository":"https://github.com/ekitale/maths-project",
   "succes_url":"/",
-  "stack":"container",
+  "stack":"heroku-24",
   "env":{
     "PREFIX":
     {
@@ -23,19 +23,49 @@
       "description":"Your contact status will be download automatically and send to you(type yes to active or no to deactive ; don't write in capital letter)",
       "value":"no",
       "required":false
-    }
-    ,
+    },
+    "AUTO_READ":
+    {
+      "description":"Your contact  will be read messages automatically(type yes to active or no to deactive  ; don't write in capital letter)",
+      "value":"no",
+      "required":false   
+      },
+  "AUTO_REACT":
+    {
+      "description":"Enter yes for your bot to auto react",
+      "value":"no",
+      "required":false
+         },
+  "CHATBOT":
+    {
+      "description":"Enter yes for your bot to auto reply messages",
+      "value":"no",
+      "required":false
+    },
+	  
+"ANTICALL":
+    {
+      "description":"Enter yes for your bot to auto reject calls",
+      "value":"yes",
+      "required":false
+    },
+"AUTO_REACT_STATUS":
+    {
+      "description":"Enter yes for your bot to auto like status",
+      "value":"yes",
+      "required":true
+    },
      "PM_PERMIT" :
      {
       "description":"Other user can't use your bot in pm (type yes to active or no to deactive ; don't write in capital letter)",
       "value":"no",
-      "required":true
+      "required":false
     }
     ,
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"LEONARD MD",
+      "value":"LEONARD-MD",
       "required":false
 
     } ,
@@ -49,17 +79,17 @@
     "PUBLIC_MODE":
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
-      "value":"no",
-      "required": true 
+      "value":"yes",
+      "required":false
     }
 	,
-    "HEROKU_APY_KEY": {
+    "HEROKU_API_KEY": {
     "description": "insert your heroku api-key (this is optionnal)",
-     "required" :true
+     "required" :false
     },
   "HEROKU_APP_NAME": {
-    "description": "insert your heroku APP NAME (this is optionnal)",
-     "required" :true
+    "description": "insert your heroku APP NAME (put the name you put on top)",
+     "required" :false
     }  
 	  ,
     "SESSION_ID":
@@ -74,13 +104,13 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": " © ιєσɳαɾd тєƈн"
+    "value": "© ιєσɳαɾd тєƈн"
   },
     "NUMERO_OWNER":
   {
     
-    "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
-    "required":false,
+    "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
+    "required":true,
     "value": "255757103671"
   },
     "WARN_COUNT":
@@ -96,27 +126,27 @@
     "value": "yes"
   },
   "PRESENCE":{
-    "description":"Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"1",
-    "required": true 
+    "description":"Mark your presence: 1 online. 2 typing a message. 3 recording . Or leave the field blank to indicate your real state.",
+    "value":"",
+    "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
     "description": "if you want to enable anti delete message put yes else put no",
-    "value": "no",
-    "required": true 
+    "value": "yes",
+        "required": true
   }
   },
-
-  "formation": {
-		"worker": {
-			"quantity": 1,
-			"size": "basic"
-		}
-	},
-
-  "addons":[
+	
+ 
+	  "buildpacks": [
     {
-      "plan":"heroku-postgresql"
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
     }
   ]
 }
